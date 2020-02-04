@@ -10,7 +10,7 @@ I have been fortunate to work as part of several teams practising agile methodol
 
 ## Technologies
 
-This is a selection of the languages, frameworks, and tools I have experience with. My goal is to use the best tool for the job and become a better developer.
+I have a preference for backend development but have experience across the stack with multiple languages, frameworks and tools. My goal is to keep learning about new technology and to use the best tool for the job to deliver the right solution.
 
 <b>Backend</b> ~ Typescript | javascript | Node | NestJS | GraphQL | OpenAPI | PostgreSQL | Java & Lombok | Kotlin | Spring | Ruby | C# | WPF (XAML) | VBA </br>
 <b>Frontend</b> ~ Typescript | javascript | React | Redux | Redux-Saga | SCSS & CSS</br>
@@ -41,7 +41,7 @@ On arrival, refactoring a pure javascript node (express) backend in Typescript a
 <b>Workflow</b> ~ Git | Webpack | Jenkins | Docker</br>
 <b>Testing</b> ~ JUnit | Mockito | Hamcrest | Mocha | Chai | Sinon | React Storybook
 
-Delivering user stories and resolving defects for a client project. The code base made extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices.
+Working on a bespoke client project, delivering user stories and resolving bugs and issues. The code base made extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices.
 
 ### Panmure Gordon & Co (Stockbrokers), London
 
@@ -78,13 +78,13 @@ My role was all about understanding businesses and the potential impact of their
 
 ## Personal Projects
 
-| Project                                                            | Description                                               | Demo                                                                                              | Technologies                                                      |
-| ------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Arithmio](https://github.com/joemaidman/arithmio)                 | Maths expression parser and calculator (infix to postfix) | [npm](https://www.npmjs.com/package/arithmio) / [API](https://arithmio.netlify.com/#introduction) | Typescript, jest                                                  |
-| [Bedrock](https://github.com/joemaidman/bedrock)                   | javascript testing framework                              | [npm](https://www.npmjs.com/package/bed-rock)                                                     | Typescript, javascript, Ramda, Esprima                            |
-| [Cryptomonitor](https://github.com/joemaidman/cryptomonitor)       | Cryptocurrency pricing dashboard                          | [Demo](https://cryptomonitor.netlify.com/)                                                        | javascript, React, Redux                                          |
-| [Blades in motion](https://github.com/joemaidman/blades-in-motion) | RF sniffing and replay                                    | [Blog/video](http://www.joemaidman.com/?p=317)                                                    | SDR, Arduino, C/C++                                               |
-| [Bloc](https://github.com/joemaidman/bloc)                         | Isometric multi-player building game                      | [Demo](https://bloc-game.herokuapp.com/)/[Blog](http://www.joemaidman.com/?p=540)                 | javascript, Node, Express, socket.io, MongoDB, Mocha, Chai, Sinon |
+| Project                                                            | Description                                               | Demo                                                                                                                                | Technologies                                                      |
+| ------------------------------------------------------------------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [Arithmio](https://github.com/joemaidman/arithmio)                 | Maths expression parser and calculator (infix to postfix) | [npm](https://www.npmjs.com/package/arithmio) / [API](https://arithmio.netlify.com/#introduction)                                   | Typescript, jest                                                  |
+| [Bedrock](https://github.com/joemaidman/bedrock)                   | javascript testing framework                              | [npm](https://www.npmjs.com/package/bed-rock)                                                                                       | Typescript, javascript, Ramda, Esprima                            |
+| [Cryptomonitor](https://github.com/joemaidman/cryptomonitor)       | Cryptocurrency pricing dashboard                          | [Demo](https://cryptomonitor.netlify.com/)                                                                                          | javascript, React, Redux                                          |
+| [Blades in motion](https://github.com/joemaidman/blades-in-motion) | RF sniffing and replay                                    | [Blog/video](http://www.joemaidman.com/rf-packet-sniffing-replay-youre-only-coming-through-in-waves)                                | SDR, Arduino, C/C++                                               |
+| [Bloc](https://github.com/joemaidman/bloc)                         | Isometric multi-player building game                      | [Demo](https://bloc-game.herokuapp.com/)/[Blog](http://www.joemaidman.com/the-story-of-bloc-an-isometric-multiplayer-building-game) | javascript, Node, Express, socket.io, MongoDB, Mocha, Chai, Sinon |
 
 ## Hobbies
 
