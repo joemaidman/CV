@@ -4,9 +4,9 @@
 
 Software developer, former financial analyst, keen technologist.
 
-My interests in technology vary and in self-driven projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality, and [cellular automata](http://gameoflife.netlify.com/). One of my side projects, [Bedrock](https://github.com/joemaidman/bedrock), is a javascript testing framework. I was curious to explore and solve the challenges involved with building a tool like this which is so critical to my day-to-day workflow. I put a strong emphasis on implementing the principles of clean code and test-driven development.
+My interests in technology vary and in self-driven projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality, and [cellular automata](http://gameoflife.netlify.com/). One of my side projects, [Bedrock](https://github.com/joemaidman/bedrock), is a javascript testing framework. I was curious to explore and solve the challenges involved with building a tool like this which is so critical to my day-to-day workflow.
 
-I have been fortunate to work as part of several teams practising agile methodologies and have experience of both Kanban and Scrum, including working with colleagues distributed around the world.
+I have been fortunate to work as part of several teams practising agile methodologies and have experience of both Kanban and Scrum, including working with colleagues distributed around the world. I put a strong emphasis on implementing the principles of clean code and test-driven development.
 
 ## Technologies
 
