@@ -4,13 +4,11 @@
 
 Software developer, former financial analyst, keen technologist.
 
-My interests in technology vary and in self-driven projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality, and [cellular automata](http://gameoflife.netlify.com/). One of my side projects, [Bedrock](https://github.com/joemaidman/bedrock), is a javascript testing framework. I was curious to explore and solve the challenges involved with building a tool like this which is so critical to my day-to-day workflow.
-
-I have been fortunate to work as part of several teams practising agile methodologies and have experience of both Kanban and Scrum, including working with colleagues distributed around the world. I put a strong emphasis on implementing the principles of clean code and test-driven development.
-
 ## Technologies
 
-I have a preference for backend development but have experience across the stack with multiple languages, frameworks and tools. My goal is to keep learning about new technology and to use the best tool for the job to deliver the right solution.
+I have a preference for backend development but have experience across the stack with multiple languages, frameworks and tools. My goal is to keep learning about new technology and to use the best tool for the job to deliver the right solution. I put a strong emphasis on implementing the principles of clean code and test-driven development.
+
+My interests in technology vary and in self-driven projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality, and [cellular automata](http://gameoflife.netlify.com/). One of my side projects, [Flub](https://github.com/joemaidman/flub), is a javascript testing framework. I was curious to explore and solve the challenges involved with building a tool like this which is so critical to my day-to-day workflow.
 
 <b>Backend</b> ~ Typescript | javascript | Node | NestJS | GraphQL | OpenAPI | PostgreSQL | Java & Lombok | Kotlin | Spring | Ruby | C# | WPF (XAML) | VBA </br>
 <b>Frontend</b> ~ Typescript | javascript | React | Redux | Redux-Saga | SCSS & CSS</br>
@@ -21,27 +19,29 @@ I have a preference for backend development but have experience across the stack
 
 ### Reposit (Proptech), London
 
-**Software Developer** ~ _Jan 2018 to Present_
-
 <b>Backend</b> ~ Node | Typescript | Nestjs | Typeorm | GraphQL | PostgreSQL </br>
 <b>Frontend</b> ~ Typescript | React | Redux | Redux-Saga | GraphQL (Apollo Client) | Angular | SCSS </br>
 <b>Workflow</b> ~ Git | Webpack | CicleCI | AWS</br>
 <b>Testing</b> ~ Jest | Mocha | Chai | Sinon | Enzyme | React Storybook
 
-Most recently building and architecting the second version of the tech platform, principally the backend. Working in Typescript with the NestJS framework and exploring metaprogramming and code-generation.
+**Lead Developer** ~ _June 2019 to Present_
 
-On arrival, refactoring a pure javascript node (express) backend in Typescript and migrating the front-end platform from Angular to React. Delivering new features and components. Also responsible for managing deployments and maintenance.
+Architecting, building and launching the second version of the platform, principally the backend. Working in Typescript with the NestJS framework. Exploring metaprogramming and code-generation.
+
+**Software Developer** ~ _Jan 2018 to June 2019_
+
+Refactoring a pure javascript node (express) backend in Typescript and migrating the front-end platform from Angular to React. Delivering new features and components. Also responsible for managing deployments and maintenance.
 
 ### Lab49 (Technology Consultancy), London
-
-**Graduate Software Engineer** ~ _Jun 2017 to Jan 2018_
 
 <b>Backend</b> ~ Java | Kotlin | Spring | Lombok | PostgreSQL </br>
 <b>Frontend</b> ~ Typescript | javascript | React | Redux | RxJS | SCSS </br>
 <b>Workflow</b> ~ Git | Webpack | Jenkins | Docker</br>
 <b>Testing</b> ~ JUnit | Mockito | Hamcrest | Mocha | Chai | Sinon | React Storybook
 
-Working on a bespoke client project, delivering user stories and resolving bugs and issues. The code base made extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices.
+**Graduate Software Engineer** ~ _Jun 2017 to Jan 2018_
+
+Working on a bespoke client project, delivering user stories and resolving bugs and issues. The code base made extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices. I worked as part of a team practising agile methodologies (both Kanban and Scrum), including working with colleagues distributed around the world.
 
 ### Panmure Gordon & Co (Stockbrokers), London
 
@@ -81,7 +81,7 @@ My role was all about understanding businesses and the potential impact of their
 | Project                                                            | Description                                               | Demo                                                                                                                                | Technologies                                                      |
 | ------------------------------------------------------------------ | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [Arithmio](https://github.com/joemaidman/arithmio)                 | Maths expression parser and calculator (infix to postfix) | [npm](https://www.npmjs.com/package/arithmio) / [API](https://arithmio.netlify.com/#introduction)                                   | Typescript, jest                                                  |
-| [Bedrock](https://github.com/joemaidman/bedrock)                   | javascript testing framework                              | [npm](https://www.npmjs.com/package/bed-rock)                                                                                       | Typescript, javascript, Ramda, Esprima                            |
+| [Flub](https://github.com/joemaidman/flub)                         | javascript testing framework                              | [npm](https://www.npmjs.com/package/flub)                                                                                           | Typescript, javascript, Ramda, Esprima                            |
 | [Cryptomonitor](https://github.com/joemaidman/cryptomonitor)       | Cryptocurrency pricing dashboard                          | [Demo](https://cryptomonitor.netlify.com/)                                                                                          | javascript, React, Redux                                          |
 | [Blades in motion](https://github.com/joemaidman/blades-in-motion) | RF sniffing and replay                                    | [Blog/video](http://www.joemaidman.com/rf-packet-sniffing-replay-youre-only-coming-through-in-waves)                                | SDR, Arduino, C/C++                                               |
 | [Bloc](https://github.com/joemaidman/bloc)                         | Isometric multi-player building game                      | [Demo](https://bloc-game.herokuapp.com/)/[Blog](http://www.joemaidman.com/the-story-of-bloc-an-isometric-multiplayer-building-game) | javascript, Node, Express, socket.io, MongoDB, Mocha, Chai, Sinon |
